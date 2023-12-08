@@ -1,2 +1,0 @@
-# Proyecto-Poo
-Doogle Jump
